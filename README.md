@@ -35,6 +35,6 @@ notepad config.env
 ```
 ## Run the Program
 ```bash
-streamlit run AI.py
+streamlit run Ai.py
 ```
 
